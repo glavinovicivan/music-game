@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45384c3e3e279944b9c3b90bca96490a, type: 3}
+  m_Name: Hedgehog
+  m_EditorClassIdentifier: 
+  InstrumentName: Hedgehog
+  ToneSoundPairings:
+  - Tone: 0
+    AudioClip: {fileID: 8300000, guid: de0f813747f924548beb05462a5dab9a, type: 3}
+  - Tone: 1
+    AudioClip: {fileID: 8300000, guid: e6d42250f617ae241b659c4c02c47613, type: 3}
+  - Tone: 3
+    AudioClip: {fileID: 8300000, guid: bb3cf5f7988bc1d44bb162138cd6f9b4, type: 3}
+  - Tone: 5
+    AudioClip: {fileID: 8300000, guid: 204ad735394d03c419beb558bd91bf83, type: 3}
+  - Tone: 6
+    AudioClip: {fileID: 8300000, guid: 577f03a8ec61927438f8f588758540dc, type: 3}
+  - Tone: 8
+    AudioClip: {fileID: 8300000, guid: c0a2575c8208aab458403d0cd57cc2fc, type: 3}
+  - Tone: 10
+    AudioClip: {fileID: 8300000, guid: 68c122820a4edb149b6b8dd2acdc4f72, type: 3}
+  m_tonesSize: 7

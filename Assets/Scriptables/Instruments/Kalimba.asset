@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45384c3e3e279944b9c3b90bca96490a, type: 3}
+  m_Name: Kalimba
+  m_EditorClassIdentifier: 
+  InstrumentName: Kalimba
+  ToneSoundPairings:
+  - Tone: 8
+    AudioClip: {fileID: 8300000, guid: c980112ad41f0ab47a9d8d1f48ad6d83, type: 3}
+  - Tone: 10
+    AudioClip: {fileID: 8300000, guid: cd3862d5f408e1f4494306631881eb83, type: 3}
+  - Tone: 0
+    AudioClip: {fileID: 8300000, guid: dbb72df90636eaf438d4e1f920c4a422, type: 3}
+  - Tone: 1
+    AudioClip: {fileID: 8300000, guid: 661ea21edb7a45e4fa29ca2013ce55e8, type: 3}
+  - Tone: 3
+    AudioClip: {fileID: 8300000, guid: 53cc1893d20b0734b8e594d35bc38a29, type: 3}
+  - Tone: 5
+    AudioClip: {fileID: 8300000, guid: 8c2e8f3104d97d1429f4d81ca5f7d176, type: 3}
+  - Tone: 6
+    AudioClip: {fileID: 8300000, guid: c08adcab6c72c3c4cb697cc20590a3f2, type: 3}
+  m_tonesSize: 7

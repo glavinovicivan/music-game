@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f990e95780c2fd041b2c3d5a563fa5f2, type: 3}
+  m_Name: SpawnBrotherQuestReward
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 7642092462446738307, guid: 3f88556136376a04d92f158746e93da7, type: 3}
+  Location: {x: 0, y: 0, z: -141.7}

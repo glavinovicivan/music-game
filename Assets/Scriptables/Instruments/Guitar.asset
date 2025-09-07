@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45384c3e3e279944b9c3b90bca96490a, type: 3}
+  m_Name: Guitar
+  m_EditorClassIdentifier: 
+  InstrumentName: Guitar
+  ToneSoundPairings:
+  - Tone: 8
+    AudioClip: {fileID: 8300000, guid: e9e56bc615ff6854d835c6d8d5ce5967, type: 3}
+  - Tone: 9
+    AudioClip: {fileID: 8300000, guid: e807d75636faf3942bd0eead1faa4ea1, type: 3}
+  - Tone: 10
+    AudioClip: {fileID: 8300000, guid: df92068d0a638a64e8efbd9ea50e8db0, type: 3}
+  - Tone: 11
+    AudioClip: {fileID: 8300000, guid: c6c1e8b723640f045b2bf28f4f35b299, type: 3}
+  - Tone: 0
+    AudioClip: {fileID: 8300000, guid: 13ca51fc6e26e3746955d55dc1245a7d, type: 3}
+  - Tone: 1
+    AudioClip: {fileID: 8300000, guid: aa9e81105482b1842a8d1726885a7a0a, type: 3}
+  - Tone: 2
+    AudioClip: {fileID: 8300000, guid: 52ef6229d2bf2024bab71498f270054f, type: 3}
+  - Tone: 3
+    AudioClip: {fileID: 8300000, guid: 24e3cd79f7e99934ca27daecadfbb0cc, type: 3}
+  - Tone: 4
+    AudioClip: {fileID: 8300000, guid: 5b7a3ff0c7cf2db41a2320a1a9b05087, type: 3}
+  - Tone: 5
+    AudioClip: {fileID: 8300000, guid: d8ee754c3c4517a4a84a43531711346d, type: 3}
+  - Tone: 6
+    AudioClip: {fileID: 8300000, guid: a56b18fdaac7f2c43bdf2e98a4f41ee3, type: 3}
+  - Tone: 7
+    AudioClip: {fileID: 8300000, guid: 8e561eb5b26025946b7cd8923e0e6db6, type: 3}
+  m_tonesSize: 12
